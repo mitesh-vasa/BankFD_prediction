@@ -1,2 +1,2 @@
 # bankFD_prediction
-This is a classification type ML model to predict whether the customer will open a fixed deposit account or not
+This is a classification type ML model to predict whether the customer will open a fixed deposit account or not.
